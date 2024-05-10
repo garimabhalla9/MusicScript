@@ -10,9 +10,7 @@ A Simple, Responsive HTML, CSS, and JavaScript-based music player.
 live: https://musicscripts.netlify.app
 
 # Usage
-1) Clone the repository:
-
-git clone https://github.com/garimabhalla9/MusicScript.git
+1) Clone the repository:  git clone https://github.com/garimabhalla9/MusicScript.git
 
 3) Open the index.html
 4) Enjoy listening to your favorite music!
