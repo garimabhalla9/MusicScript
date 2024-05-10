@@ -7,7 +7,7 @@ A Simple, Responsive HTML, CSS, and JavaScript-based music player.
 3) Display song details and album art.
 
 # Demo
-live: 
+live: https://musicscripts.netlify.app
 
 # Usage
 1) Clone the repository:
